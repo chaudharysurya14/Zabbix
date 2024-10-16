@@ -1,4 +1,4 @@
-![Zabbix logo]([misc/images/docs/zabbix_logo.svg?raw=true](https://github.com/chaudharysurya14/Zabbix/blob/master/zabbix_logo.svg))
+![Zabbix logo](https://github.com/chaudharysurya14/Zabbix/blob/master/zabbix_logo.svg)
 
 An enterprise-class, open-source distributed monitoring solution that’s designed to monitor the performance and availability of network devices, servers, services, and other IT resources.
 Zabbix is a flexible solution that can monitor anything from a simple, standalone application to a large-scale environment, with features including:
